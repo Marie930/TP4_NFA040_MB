@@ -1,0 +1,50 @@
+body {
+    color: rgb(183, 0, 183);
+    /* 01 */
+    margin: 1.5cm;
+    /* 02 */
+}
+
+h1, h2 {
+    color: aqua;
+    /* 03 */
+    text-align: center;
+    /* 04 */
+}
+
+p {
+    color: black;
+}
+
+/* 05 */
+.important {
+    color: red;
+}
+
+/* 06 */
+p.bleu {
+    color: blue;
+}
+
+/* 07 */
+p em {
+    color: gray;
+}
+
+/* 08 */
+p .important {
+    color: green;
+}
+
+/* 09 */
+.resume em {
+    color: yellow;
+}
+
+/* 10 */
+h5+p {
+    color: lime;
+}
+
+/* 11 */
+/* Lien Github:https://github.com/Marie930/TP3_NFA040_MB */
